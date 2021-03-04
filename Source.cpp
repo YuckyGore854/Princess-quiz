@@ -1,8 +1,7 @@
 #include<iostream>
 using namespace std;
-//princess quiz!
+// princess quiz!
 
-// this is another test rq
 
 int main() {
 	int Soulofcinder = 0;
